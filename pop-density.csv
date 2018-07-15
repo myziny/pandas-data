@@ -1,0 +1,101 @@
+pos,country,area-km,area-mi,population,density-km,density-mi,date,population source
+1,Bangladesh,143998,55598,164827540,1145,2965,12-Jul-18,Official population clock
+2,Taiwan,36193,13974,23572049,651,1686,01-Jan-18,Monthly official estimate
+3,South Korea,100210,38691,51635256,515,1334,01-Jul-18,Annual official projection
+4,Rwanda,26338,10169,12001136,456,1181,01-Jul-18,Official projection
+5,Netherlands,41526,16033,17236875,415,1075,12-Jul-18,Official population clock
+6,Haiti,27065,10450,11112945,411,1064,01-Jul-18,UN projection
+7,India,3287240,1269211,1334224597,406,1051,12-Jul-18,India Population clock
+8,Israel,22072,8522,8881330,402,1042,12-Jul-18,Official population clock
+9,Burundi,27816,10740,10681186,384,995,01-Jul-18,Official annual projection
+10,Belgium,30528,11787,11409388,374,969,01-May-18,Official monthly estimate
+11,Philippines,300000,115831,106152800,354,916,12-Jul-18,Official population clock
+12,Japan,377944,145925,126490000,335,868,01-May-18,Official monthly estimate
+13,Sri Lanka,65610,25332,21444000,327,847,01-Jul-17,Official estimate
+14,Vietnam,331212,127882,94660000,286,741,01-Jul-18,Official annual projection
+15,United Kingdom,242910,93788,66040229,272,704,01-Jul-17,Official estimate
+16,Pakistan,803940,310403,212214000,264,684,12-Jul-18,Official population clock
+17,Germany,357168,137903,82740900,232,601,30-Sep-17,Official quarterly estimate
+18,Dominican Republic,47875,18485,10266149,214,554,01-Jul-18,Official projection
+19,North Korea,122762,47399,25610672,212,549,01-Jul-18,UN projection
+20,Nigeria,923768,356669,195875237,212,549,01-Jul-18,UN projection
+21,Switzerland,41285,15940,8492956,206,534,31-Mar-18,Official provisional figure
+22,Italy,301308,116336,60483973,201,521,31-Dec-17,Monthly official estimate
+23,Nepal,147181,56827,29291746,199,515,01-Jul-18,Official annual projection
+24,Malawi,118484,45747,19164728,162,420,01-Jul-18,UN projection
+25,Uganda,241551,93263,38823100,161,417,01-Jul-18,Annual official estimate
+26,Guatemala,108889,42042,17245346,158,409,01-Jul-18,UN projection
+27,China,9640821,3722342,1392890598,144,374,12-Jul-18,Official estimate
+28,Indonesia,1904569,735358,265015300,139,360,01-Jul-18,Official projection
+29,Czech Republic,78867,30451,10613350,135,350,01-Apr-18,Official quarterly estimate
+30,Thailand,1513120,584219,69183173,135,350,01-Jul-18,UN projection
+31,France,543965,210026,67225000,124,321,01-May-18,Monthly official estimate
+32,Ghana,238533,92098,29614337,124,321,01-Jan-18,Official projection
+33,Poland,312685,120728,38426000,123,319,01-Jul-17,Official estimate
+34,United Arab Emirates,83600,32278,9856000,118,306,01-Jul-16,Official estimate
+35,Azerbaijan,86600,33436,9898085,114,295,01-Jan-18,Official estimate
+36,Jordan,89342,34495,10193041,114,295,12-Jul-18,Official population clock
+37,Portugal,92090,35556,10291027,112,290,31-Dec-17,Official estimate
+38,Austria,83879,32386,8830487,105,272,01-Apr-18,Official quarterly estimate
+39,Hungary,93029,35919,9771000,105,272,01-Jan-18,Annual official estimate
+40,Turkey,783562,302535,80810525,103,267,31-Dec-17,Annual official estimate
+41,Cuba,109886,42427,11221060,102,264,31-Dec-17,Official annual estimate
+42,Ethiopia,1063652,410678,107534882,101,262,01-Jul-18,UN projection
+43,Benin,112622,43484,11362269,101,262,01-Jul-18,Official projection
+44,Syria,185180,71498,18284407,99,256,01-Jul-18,UN estimate
+45,Malaysia,330803,127724,32589450,99,255,12-Jul-18,Official population clock
+46,Egypt,1002450,387048,97279242,97,251,12-Jul-18,Official population clock
+47,Spain,503783,194512,46549045,92,238,01-Jul-17,Official estimate
+48,Iraq,434128,167618,38274618,88,228,01-Jul-17,UN projection
+49,Cambodia,181035,69898,15848495,88,228,01-Jul-17,Official annual projection
+50,Kenya,581834,224647,50950879,88,228,01-Jul-18,UN projection
+51,Greece,131957,50949,10768193,82,212,01-Jan-17,Official estimate
+52,Romania,238391,92043,19638000,82,212,01-Jan-17,Official annual estimate
+53,Myanmar,676577,261228,54363426,80,207,29-Mar-14,Preliminary 2014 census result
+54,Honduras,112088,43277,9012229,80,207,01-Jul-18,Official projection
+55,Senegal,196722,75955,15726037,80,207,01-Jul-18,Official estimate
+56,Morocco,446550,172414,34723450,78,201,12-Jul-18,Official population clock
+57,Ivory Coast,322921,124680,24295000,75,194,01-Jul-17,UN projection
+58,Burkina Faso,270764,104543,19632147,73,189,01-Jul-17,Annual official projection
+59,Uzbekistan,444103,171469,32120500,72,186,01-Jul-17,Official estimate
+60,Tunisia,163610,63170,11446300,70,181,01-Jul-17,Official estimate
+61,Ukraine[9],603000,232820,42300723,70,181,01-May-18,Official monthly estimate
+62,Mexico,1967138,759516,124286623,63,163,31-Mar-18,Official quarterly estimate
+63,Yemen,455000,175676,28250000,62,161,01-Jul-17,UN projection
+64,Tajikistan,143100,55251,8931000,62,161,01-Jan-18,Official estimate
+65,Ecuador,276841,106889,17030833,62,159,12-Jul-18,Official projection
+66,Tanzania,883749,341217,54199163,61,158,01-Jul-18,Official annual estimate
+67,Guinea,245857,94926,12717176,52,135,01-Jul-17,UN projection
+68,Cameroon,466050,179943,23248044,50,129,01-Jan-17,Official projection
+69,Iran,1648195,636372,81612298,50,128,12-Jul-18,Official population clock
+70,South Africa,1220813,471359,56521900,46,119,01-Jul-17,Official estimate
+71,Afghanistan,645807,249347,29724323,46,119,01-Jul-17,Official estimate
+72,Belarus,207600,80155,9484300,46,119,01-Apr-18,Quarterly official estimate
+73,Madagascar,587041,226658,25571000,44,114,01-Jul-17,UN projection
+74,Colombia,1141748,440831,49850246,44,113,12-Jul-18,Official population clock
+75,Zimbabwe,390757,150872,14848905,38,98,01-Jul-18,Official annual projection
+76,Democratic Republic of the Congo,2345095,905446,84004989,36,93,01-Jul-18,UN projection
+77,Mozambique,799380,308642,28861863,36,93,01-Aug-17,Official census result
+78,Venezuela,916445,353841,31828110,35,91,01-Jul-18,Official annual projection
+79,United States,9833517,3796742,327464959,33,86,12-Jul-18,Official population clock
+80,Peru,1285216,496225,31826018,25,65,01-Jul-17,Official projection
+81,Brazil,8515767,3287956,209302559,25,64,12-Jul-18,Official population clock
+82,Angola,1246700,481354,28359634,23,60,01-Jan-17,Official estimate
+83,Chile,756096,291930,17373831,23,60,31-Aug-17,Preliminary 2017 census result
+84,Somalia,637657,246201,14743000,23,60,01-Jul-17,UN projection
+85,Sweden,450295,173860,10178142,23,59,12-Jul-18,Official population clock
+86,Zambia,752612,290585,16405229,22,57,01-Jul-17,Official annual projection
+87,Sudan,1839542,710251,40782742,22,57,01-Jul-17,Official annual projection
+88,South Sudan,644329,248777,12575714,20,52,01-Jul-17,UN Projection
+89,Algeria,2381741,919595,41697498,18,47,01-Jul-17,Official annual projection
+90,Niger,1186408,458075,21477348,18,47,01-Jul-17,UN Projection
+91,Papua New Guinea,462840,178704,8151300,18,47,01-Jul-16,Annual official estimate
+92,Argentina,2780400,1073518,44044811,16,41,01-Jul-17,Annual official estimate
+93,Saudi Arabia,2149690,830000,33905320,16,41,01-Jul-17,Annual official estimate
+94,Mali,1248574,482077,18542000,15,39,01-Jul-17,UN projection
+95,Chad,1284000,495755,14900000,12,31,01-Jul-17,UN projection
+96,Bolivia,1098581,424164,11307314,10,26,01-Jul-18,Official projection
+97,Russia[10],17125242,6612093,146877088,9,23,01-Jan-18,Official estimate
+98,Kazakhstan,2724900,1052090,18232000,7,18,01-May-18,Official monthly estimate
+99,Canada,9984670,3855103,37161891,4,10,12-Jul-18,Official estimate
+100,Australia,7692024,2969907,24994870,3,8,12-Jul-18,Official estimate
