@@ -1,4 +1,4 @@
-pos,country,area-km,area-mi,population,density-km,density-mi,date,population source
+pos,country,area_km,area_mi,population,density_km,density_mi,date,population source
 1,Bangladesh,143998,55598,164827540,1145,2965,12-Jul-18,Official population clock
 2,Taiwan,36193,13974,23572049,651,1686,01-Jan-18,Monthly official estimate
 3,South Korea,100210,38691,51635256,515,1334,01-Jul-18,Annual official projection
